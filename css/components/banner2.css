@@ -1,0 +1,22 @@
+.banner2{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%), url(../../images/children.jpg);
+	color:white;
+	padding:150px 0px;
+	background-size: cover;
+	background-position: center;
+	margin: 0 auto;
+}
+.banner2 h3{
+	font-size: 50px;
+
+}
+
+.banner2 a{
+	width: 15px;
+	margin:200px;
+	padding-top: 16px;
+	padding-bottom: 16px;
+}
+.banner2 a:hover{
+	background-color: white;
+}
